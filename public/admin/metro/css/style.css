@@ -1,0 +1,59 @@
+
+body {
+	background-color:#333333;
+}
+hr {
+	width:50%;margin-bottom:40px;
+}
+.img_home{
+	padding:20px;
+}
+.ms_hr_cate {
+	width:50%;margin-bottom:10px;
+}
+.ms_hr{
+	width:50%;margin:10px 30px;
+}
+.clear{
+clear: both;
+}
+#footer h5{
+	padding:15px 0 ;color: black;
+}
+.mgc{
+	margin: 90px;
+}
+.ct_size{
+	max-height: 240px;
+}
+
+.lq h4{
+	padding: 10px;
+	text-align: center;
+}
+a:{
+	 color: black;
+}
+a:hover{
+	 color: black;
+}
+
+.slide-over h4{
+	margin-top: 40px;
+}
+.grid {
+	margin: 0 5px 5px 5px;
+}
+.banner-top2{
+	padding-top: 15px;
+}
+.grid .pr_product{
+	margin:  7px 0;
+}
+.tt_pr_product{
+	padding: 15px 20px;
+}
+
+#g_product 222n{
+	margin-top:70px;
+}
